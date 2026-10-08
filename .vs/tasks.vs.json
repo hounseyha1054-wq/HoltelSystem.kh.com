@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Hotel_Management_System",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}

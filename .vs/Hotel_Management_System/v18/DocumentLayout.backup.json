@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\software-for-school\\C#\\Hotel_Management_System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Hotel_Management_System||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351D8D09-0B35-4AE9-A5B0-0EA5C712827C}|Hotel_Management_System.csproj|d:\\software-for-school\\c#\\hotel_management_system\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{351D8D09-0B35-4AE9-A5B0-0EA5C712827C}|Hotel_Management_System.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351D8D09-0B35-4AE9-A5B0-0EA5C712827C}|Hotel_Management_System.csproj|d:\\software-for-school\\c#\\hotel_management_system\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{351D8D09-0B35-4AE9-A5B0-0EA5C712827C}|Hotel_Management_System.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351D8D09-0B35-4AE9-A5B0-0EA5C712827C}|Hotel_Management_System.csproj|d:\\software-for-school\\c#\\hotel_management_system\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{351D8D09-0B35-4AE9-A5B0-0EA5C712827C}|Hotel_Management_System.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351D8D09-0B35-4AE9-A5B0-0EA5C712827C}|Hotel_Management_System.csproj|d:\\software-for-school\\c#\\hotel_management_system\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{351D8D09-0B35-4AE9-A5B0-0EA5C712827C}|Hotel_Management_System.csproj|solutionrelative:register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351D8D09-0B35-4AE9-A5B0-0EA5C712827C}|Hotel_Management_System.csproj|d:\\software-for-school\\c#\\hotel_management_system\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{351D8D09-0B35-4AE9-A5B0-0EA5C712827C}|Hotel_Management_System.csproj|solutionrelative:register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351D8D09-0B35-4AE9-A5B0-0EA5C712827C}|Hotel_Management_System.csproj|d:\\software-for-school\\c#\\hotel_management_system\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{351D8D09-0B35-4AE9-A5B0-0EA5C712827C}|Hotel_Management_System.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351D8D09-0B35-4AE9-A5B0-0EA5C712827C}|Hotel_Management_System.csproj|d:\\software-for-school\\c#\\hotel_management_system\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hotel_Management_System",
+              "DocumentMoniker": "D:\\software-for-school\\C#\\Hotel_Management_System\\Hotel_Management_System.csproj",
+              "RelativeDocumentMoniker": "Hotel_Management_System.csproj",
+              "ToolTip": "D:\\software-for-school\\C#\\Hotel_Management_System\\Hotel_Management_System.csproj",
+              "RelativeToolTip": "Hotel_Management_System.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-19T08:17:58.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "login.cs [Design]",
+              "DocumentMoniker": "D:\\software-for-school\\C#\\Hotel_Management_System\\login.cs",
+              "RelativeDocumentMoniker": "login.cs",
+              "ToolTip": "D:\\software-for-school\\C#\\Hotel_Management_System\\login.cs [Design]",
+              "RelativeToolTip": "login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T08:04:35.028Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "login.cs",
+              "DocumentMoniker": "D:\\software-for-school\\C#\\Hotel_Management_System\\login.cs",
+              "RelativeDocumentMoniker": "login.cs",
+              "ToolTip": "D:\\software-for-school\\C#\\Hotel_Management_System\\login.cs",
+              "RelativeToolTip": "login.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAEwHYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T07:53:24.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dashboard.cs",
+              "DocumentMoniker": "D:\\software-for-school\\C#\\Hotel_Management_System\\dashboard.cs",
+              "RelativeDocumentMoniker": "dashboard.cs",
+              "ToolTip": "D:\\software-for-school\\C#\\Hotel_Management_System\\dashboard.cs",
+              "RelativeToolTip": "dashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T07:52:40.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cs",
+              "DocumentMoniker": "D:\\software-for-school\\C#\\Hotel_Management_System\\Register.cs",
+              "RelativeDocumentMoniker": "Register.cs",
+              "ToolTip": "D:\\software-for-school\\C#\\Hotel_Management_System\\Register.cs*",
+              "RelativeToolTip": "Register.cs*",
+              "ViewState": "AgIAAFgAAAAAAAAAAADgv2QAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T06:57:46.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cs [Design]",
+              "DocumentMoniker": "D:\\software-for-school\\C#\\Hotel_Management_System\\Register.cs",
+              "RelativeDocumentMoniker": "Register.cs",
+              "ToolTip": "D:\\software-for-school\\C#\\Hotel_Management_System\\Register.cs [Design]*",
+              "RelativeToolTip": "Register.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T06:57:31.768Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dashboard.cs [Design]",
+              "DocumentMoniker": "D:\\software-for-school\\C#\\Hotel_Management_System\\dashboard.cs",
+              "RelativeDocumentMoniker": "dashboard.cs",
+              "ToolTip": "D:\\software-for-school\\C#\\Hotel_Management_System\\dashboard.cs [Design]",
+              "RelativeToolTip": "dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T06:57:07.284Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
